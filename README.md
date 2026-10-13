@@ -22,8 +22,6 @@
 
 https://github.com/user-attachments/assets/259d577b-21b6-42ae-bc3f-2ba4540d8e6b
 
-> Si la vidéo ne s'affiche pas dans votre navigateur : [ouvrir la démo](docs/media/lastwing-demo.mp4).
-
 La version jouable en ligne est hébergée sur **<https://hugoflandrin.github.io/LastWing-EndlessWaves>** : même code que sur Windows, compilé en WebAssembly.
 
 ---
