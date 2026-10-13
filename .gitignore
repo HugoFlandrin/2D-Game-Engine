@@ -1,50 +1,16 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Visual Studio IntelliSense
-*.ipch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+# Dépôt vitrine : documentation et médias uniquement, aucun code source ni artefact de build.
+# Si l'un de ces fichiers réapparaît, c'est qu'il n'a rien à faire ici.
+*.cpp
+*.h
+*.hpp
+*.cmake
+CMakeLists.txt
+*.sln
+*.vcxproj*
 *.exe
-*.out
-*.app
-
-# Debug symbols / IDE indexes
+*.obj
 *.pdb
-*.idb
-*.ipdb
-*.iobj
-
-# Build output directories (binaries, intermediate files, and assets/DLLs
-# copied there by the post-build step - source of truth lives in Game/Assets)
-x64/
-Engine/x64/
-Game/x64/
-
-# Visual Studio IDE state
 .vs/
+build*/
+x64/
+vcpkg_installed/
