@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/259d577b-21b6-42ae-bc3f-2ba4540d8e6b
-
 # 🎮 2D Game Engine
 
 **Un moteur de jeu 2D en C++ écrit from scratch, qui fait tourner *Last Wing: Endless Waves* sur Windows, dans le navigateur et bientôt sur Android.**
@@ -24,7 +20,7 @@ https://github.com/user-attachments/assets/259d577b-21b6-42ae-bc3f-2ba4540d8e6b
 
 ## 🎬 Démo
 
-<video src="[docs/media/lastwing-demo.mp4](https://github.com/HugoFlandrin/2D-Game-Engine/blob/main/docs/media/lastwing-demo.mp4)" poster="docs/media/lastwing-demo-thumbnail.png" controls muted width="360"></video>
+https://github.com/user-attachments/assets/259d577b-21b6-42ae-bc3f-2ba4540d8e6b
 
 > Si la vidéo ne s'affiche pas dans votre navigateur : [ouvrir la démo](docs/media/lastwing-demo.mp4).
 
